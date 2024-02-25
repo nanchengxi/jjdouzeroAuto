@@ -1,0 +1,12 @@
+cnocr
+matplotlib
+numpy
+Pillow
+PyAutoGUI
+pygame
+pywin32
+rlcard
+torch
+opencv-python
+PyQt5
+scikit-image
